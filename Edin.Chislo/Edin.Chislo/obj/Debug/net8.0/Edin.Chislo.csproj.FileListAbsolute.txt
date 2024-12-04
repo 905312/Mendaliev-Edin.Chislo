@@ -1,0 +1,14 @@
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\bin\Debug\net8.0\Edin.Chislo.exe
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\bin\Debug\net8.0\Edin.Chislo.deps.json
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\bin\Debug\net8.0\Edin.Chislo.runtimeconfig.json
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\bin\Debug\net8.0\Edin.Chislo.dll
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\bin\Debug\net8.0\Edin.Chislo.pdb
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\Edin.Chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\Edin.Chislo.AssemblyInfoInputs.cache
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\Edin.Chislo.AssemblyInfo.cs
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\Edin.Chislo.csproj.CoreCompileInputs.cache
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\Edin.Chislo.dll
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\refint\Edin.Chislo.dll
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\Edin.Chislo.pdb
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\Edin.Chislo.genruntimeconfig.cache
+C:\Users\class_Student\Desktop\Edin.Chislo\Edin.Chislo\obj\Debug\net8.0\ref\Edin.Chislo.dll
